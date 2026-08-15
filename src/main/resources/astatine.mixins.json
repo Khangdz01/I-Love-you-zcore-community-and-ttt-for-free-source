@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "made4mischief.astatine.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientWorldAccessor",
+    "InputAccessor",
+    "SignEditScreenAccessor",
+    "LivingEntityRendererInvoker",
+    "ItemRenderStateAccessor",
+    "ItemLayerRenderStateAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

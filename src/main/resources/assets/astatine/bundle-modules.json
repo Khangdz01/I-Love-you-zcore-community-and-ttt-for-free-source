@@ -1,0 +1,260 @@
+{
+    "modules":  [
+                    {
+                        "config_name":  "AimAssist",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.AimModule"
+                    },
+                    {
+                        "config_name":  "AnchorMacro",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.AnchorMacroModule"
+                    },
+                    {
+                        "config_name":  "AutoCity",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.AutoCityModule"
+                    },
+                    {
+                        "config_name":  "AutoTotem",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.AutoTotemModule"
+                    },
+                    {
+                        "config_name":  "AutoTrap",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.AutoTrapModule"
+                    },
+                    {
+                        "config_name":  "Criticals",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.CriticalsModule"
+                    },
+                    {
+                        "config_name":  "CrystalAura",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.CrystalAuraModule"
+                    },
+                    {
+                        "config_name":  "CrystalMacro",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.CrystalMacroModule"
+                    },
+                    {
+                        "config_name":  "ElytraMace",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.ElytraMaceModule"
+                    },
+                    {
+                        "config_name":  "HoleFill",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.HoleFillModule"
+                    },
+                    {
+                        "config_name":  "KillAura",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.KillAuraModule"
+                    },
+                    {
+                        "config_name":  "SafeAnchor",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.SafeAnchorModule"
+                    },
+                    {
+                        "config_name":  "TriggerBot",
+                        "class_name":  "made4mischief.astatine.client.modules.combat.TriggerBotModule"
+                    },
+                    {
+                        "config_name":  "AirStuck",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.AirStuckModule"
+                    },
+                    {
+                        "config_name":  "Autopilot",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.AutopilotModule"
+                    },
+                    {
+                        "config_name":  "HoleSnap",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.HoleSnapModule"
+                    },
+                    {
+                        "config_name":  "NoSlow",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.NoSlowModule"
+                    },
+                    {
+                        "config_name":  "PearlPhase",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.PearlPhaseModule"
+                    },
+                    {
+                        "config_name":  "ReverseStep",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.ReverseStepModule"
+                    },
+                    {
+                        "config_name":  "Rotation",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.RotationModule"
+                    },
+                    {
+                        "config_name":  "SilentPearl",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.SilentPearlModule"
+                    },
+                    {
+                        "config_name":  "Sprint",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.SprintModule"
+                    },
+                    {
+                        "config_name":  "Step",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.StepModule"
+                    },
+                    {
+                        "config_name":  "TridentMove",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.TridentMoveModule"
+                    },
+                    {
+                        "config_name":  "Velocity",
+                        "class_name":  "made4mischief.astatine.client.modules.movement.VelocityModule"
+                    },
+                    {
+                        "config_name":  "AutoBook",
+                        "class_name":  "made4mischief.astatine.client.modules.player.AutoBookModule"
+                    },
+                    {
+                        "config_name":  "AutoExp",
+                        "class_name":  "made4mischief.astatine.client.modules.player.AutoExpModule"
+                    },
+                    {
+                        "config_name":  "ChestDumper",
+                        "class_name":  "made4mischief.astatine.client.modules.player.ChestDumperModule"
+                    },
+                    {
+                        "config_name":  "FakePlayer",
+                        "class_name":  "made4mischief.astatine.client.modules.player.FakePlayerModule"
+                    },
+                    {
+                        "config_name":  "Friend",
+                        "class_name":  "made4mischief.astatine.client.modules.player.FriendModule"
+                    },
+                    {
+                        "config_name":  "InventoryDump",
+                        "class_name":  "made4mischief.astatine.client.modules.player.InventoryDumpModule"
+                    },
+                    {
+                        "config_name":  "NoFall",
+                        "class_name":  "made4mischief.astatine.client.modules.player.NoFallModule"
+                    },
+                    {
+                        "config_name":  "PacketMine",
+                        "class_name":  "made4mischief.astatine.client.modules.player.PacketMineModule"
+                    },
+                    {
+                        "config_name":  "SelfTrap",
+                        "class_name":  "made4mischief.astatine.client.modules.player.SelfTrapModule"
+                    },
+                    {
+                        "config_name":  "StashNotifier",
+                        "class_name":  "made4mischief.astatine.client.modules.player.StashNotifierModule"
+                    },
+                    {
+                        "config_name":  "Surround",
+                        "class_name":  "made4mischief.astatine.client.modules.player.SurroundModule"
+                    },
+                    {
+                        "config_name":  "BlockESP",
+                        "class_name":  "made4mischief.astatine.client.modules.render.BlockESPModule"
+                    },
+                    {
+                        "config_name":  "CrystalESP",
+                        "class_name":  "made4mischief.astatine.client.modules.render.CrystalEspModule"
+                    },
+                    {
+                        "config_name":  "ESP",
+                        "class_name":  "made4mischief.astatine.client.modules.render.EspModule"
+                    },
+                    {
+                        "config_name":  "FreeCam",
+                        "class_name":  "made4mischief.astatine.client.modules.render.FreeCamModule"
+                    },
+                    {
+                        "config_name":  "FreeLook",
+                        "class_name":  "made4mischief.astatine.client.modules.render.FreeLookModule"
+                    },
+                    {
+                        "config_name":  "Fullbright",
+                        "class_name":  "made4mischief.astatine.client.modules.render.FullbrightModule"
+                    },
+                    {
+                        "config_name":  "HandSwing",
+                        "class_name":  "made4mischief.astatine.client.modules.render.HandSwingModule"
+                    },
+                    {
+                        "config_name":  "HandView",
+                        "class_name":  "made4mischief.astatine.client.modules.render.HandViewModule"
+                    },
+                    {
+                        "config_name":  "HoleESP",
+                        "class_name":  "made4mischief.astatine.client.modules.render.HoleESPModule"
+                    },
+                    {
+                        "config_name":  "HUD",
+                        "class_name":  "made4mischief.astatine.client.modules.render.HUDModule"
+                    },
+                    {
+                        "config_name":  "JumpCircles",
+                        "class_name":  "made4mischief.astatine.client.modules.render.JumpCirclesModule"
+                    },
+                    {
+                        "config_name":  "NameTags",
+                        "class_name":  "made4mischief.astatine.client.modules.render.NameTagsModule"
+                    },
+                    {
+                        "config_name":  "NoRender",
+                        "class_name":  "made4mischief.astatine.client.modules.render.NoRenderModule"
+                    },
+                    {
+                        "config_name":  "Pet",
+                        "class_name":  "made4mischief.astatine.client.modules.render.PixelPetModule"
+                    },
+                    {
+                        "config_name":  "PopChams",
+                        "class_name":  "made4mischief.astatine.client.modules.render.PopChamsModule"
+                    },
+                    {
+                        "config_name":  "Skeleton",
+                        "class_name":  "made4mischief.astatine.client.modules.render.SkeletonModule"
+                    },
+                    {
+                        "config_name":  "StorageESP",
+                        "class_name":  "made4mischief.astatine.client.modules.render.StorageESPModule"
+                    },
+                    {
+                        "config_name":  "Zoom",
+                        "class_name":  "made4mischief.astatine.client.modules.render.ZoomModule"
+                    },
+                    {
+                        "config_name":  "AntiLag",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.AntiLagModule"
+                    },
+                    {
+                        "config_name":  "AutoBlaze",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.AutoBlazeModule"
+                    },
+                    {
+                        "config_name":  "AutoFillOrder",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.AutoFillOrderModule"
+                    },
+                    {
+                        "config_name":  "AutoSell",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.AutoSellModule"
+                    },
+                    {
+                        "config_name":  "AutoShulker",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.AutoShulkerModule"
+                    },
+                    {
+                        "config_name":  "BaseDigger",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.BaseDiggerModule"
+                    },
+                    {
+                        "config_name":  "ChunkFinder",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.ChunkFinderModule"
+                    },
+                    {
+                        "config_name":  "EasyPlace",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.EasyPlaceModule"
+                    },
+                    {
+                        "config_name":  "SpawnerNotifier",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.SpawnerNotifierModule"
+                    },
+                    {
+                        "config_name":  "SpawnerProtect",
+                        "class_name":  "made4mischief.astatine.client.modules.smp.SpawnerProtectModule"
+                    }
+                ]
+}
